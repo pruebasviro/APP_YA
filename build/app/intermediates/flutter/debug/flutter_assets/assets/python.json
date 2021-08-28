@@ -1,0 +1,100 @@
+[
+    {
+        "1": "Fórmula del desplazamiento",
+        "2": "Fórmula de la velocidad MRU",
+        "3": "Fórmula de la velocidad MRUA",
+        "4": "Fórmula de la fuerza",
+        "5": "Fórmula de la aceleración",
+        "6": "Fórmula de la pendiente",
+        "7": "Distancia entre dos puntos",
+        "8": "Ecuación ordinaria de la elipse con centro en el origen",
+        "9": "Ecuación de la hipérbola con centro en el origen",
+        "10": "Ecuación general de la circunferencia"
+    },
+    {
+        "1": {
+            "a": "/\\x=x2-x1",
+            "b": "ppp",
+            "c": "3p",
+            "d": "p3"
+        },
+        "2": {
+            "a": "typedef",
+            "b": "typeof",
+            "c": "v=(x1-x0)/(t1-t0)",
+            "d": "find"
+        },
+        "3": {
+            "a": "func",
+            "b": "def",
+            "c": "void",
+            "d": "v(t)=v0+a*t"
+        },
+        "4": {
+            "a": "cout",
+            "b": "F=ma",
+            "c": "println",
+            "d": "stderr"
+        },
+        "5": {
+            "a": "a=(Vf-Vo)/t",
+            "b": "typeof",
+            "c": "type",
+            "d": "find"
+        },
+        "6": {
+            "a": "func",
+            "b": "m=(y2-y1)/(x2-x1)",
+            "c": "void",
+            "d": "function"
+        },
+        "7": {
+            "a": "typedef",
+            "b": "typeof",
+            "c": "type",
+            "d": "dAB=((x2-x1)^2+(y2-y1)^2)^1/2"
+        },
+        "8": {
+            "a": "(x^2/a^2)+(y^2/b^2)=1",
+            "b": "def",
+            "c": "void",
+            "d": "function"
+        },
+        "9": {
+            "a": "typedef",
+            "b": "typeof",
+            "c": "(x^2/a^2)-(y^2/b^2)=1",
+            "d": "find"
+        },
+        "10": {
+            "a": "x^2+y^2+Dx+Ey+F=0",
+            "b": "def",
+            "c": "void",
+            "d": "function"
+        }
+    },
+    {
+        "1": "/\\x=x2-x1",
+        "2": "v=(x1-x0)/(t1-t0)",
+        "3": "v(t)=v0+a*t",
+        "4": "F=ma",
+        "5": "a=(Vf-Vo)/t",
+        "6": "m=(y2-y1)/(x2-x1)",
+        "7": "dAB=((x2-x1)^2+(y2-y1)^2)^1/2",
+        "8": "(x^2/a^2)+(y^2/b^2)=1",
+        "9": "(x^2/a^2)-(y^2/b^2)=1",
+        "10": "x^2+y^2+Dx+Ey+F=0"
+    },
+    {
+        "1": "Tema1",
+        "2": "Tema2",
+        "3": "Tema3",
+        "4": "Tema4",
+        "5": "Tema5",
+        "6": "Tema6",
+        "7": "Tema7",
+        "8": "Tema8",
+        "9": "Tema9",
+        "10": "Tema10"
+    }
+]

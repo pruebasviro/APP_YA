@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\luanb\\Desktop\\APP-YA\\build\\url_launcher\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\luanb\\.gradle\\caches\\transforms-2\\files-2.1\\b608c3d8537f54a7ed8ad86b3bfe3664\\core-1.1.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\luanb\\Desktop\\APP-YA\\build\\url_launcher\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\luanb\\.gradle\\caches\\transforms-2\\files-2.1\\b608c3d8537f54a7ed8ad86b3bfe3664\\core-1.1.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\luanb\\Desktop\\APP-YA\\build\\url_launcher\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\luanb\\.gradle\\caches\\transforms-2\\files-2.1\\b608c3d8537f54a7ed8ad86b3bfe3664\\core-1.1.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\luanb\\Desktop\\APP-YA\\build\\url_launcher\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\luanb\\.gradle\\caches\\transforms-2\\files-2.1\\b608c3d8537f54a7ed8ad86b3bfe3664\\core-1.1.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]
