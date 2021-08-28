@@ -128,7 +128,7 @@
     if(documentos){
         for (i =0; i<documentos.length; i++){
             tok = documentos[i]['token']
-            const notificacion = await noti.findOne({nombre: documentos[i]['temas']}).sort({$natural: -1}).limit(1)
+            const notificacion = await noti.findOne({nombre: documentos[i]['tema']}).sort({$natural: -1}).limit(1)
             enviarNotificacion(notificacion,tok)
         }
         control=false;
